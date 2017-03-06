@@ -11,9 +11,7 @@ git clone https://github.com/JAmedeo/udacity-project-1.git
 cd udacity-project-1
 python3 movie_center.py
 ```
-That's it!  If you have a Movie DB account favorite movies saved try and change the 
-
-
+That's it!  If you have a Movie DB account with favorite movies try opening the media_center.py file and alter the tmdb.User class with your own username and password.
 
 ## Credits
 
